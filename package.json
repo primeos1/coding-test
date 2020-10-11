@@ -1,0 +1,23 @@
+{
+  "name": "primes-multiplication-table",
+  "version": "1.7.0",
+  "description": "Displays multiplication table of up to N primes",
+  "main": "src/primes-multiplication-table.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {},
+  "files": [
+    "src/primes-multiplication-table.js"
+  ],
+  "homepage": "",
+  "devDependencies": {
+    "jasmine": "^3.3.0"
+  }
+}
